@@ -1,3 +1,3 @@
 window.allowedOptions = () => ({
-  outsideDriver: false
-})
+  outsideDriver: true,
+});
